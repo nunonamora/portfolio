@@ -1,15 +1,15 @@
 {
-	"name": "Andrew Nelson",
+	"name": "Nuno Namora",
 	"logo": "",
 	
 	"username": {
 		"github": "atlamors",
-		"medium": "@--andrewnelson"
+		"medium": "@--nunonamora"
 	},
 
 	"portfolio": { 
 		"forkthis": "Steal this theme! Its open-source 🥰",
-		"repo_html": "https://www.github.com/atlamors/portfolio",
-		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+		"repo_html": "https://www.github.com/nunonamora/portfolio",
+		"repo_api": "https://api.github.com/repos/nunonamora/portfolio"
 	}
 }
