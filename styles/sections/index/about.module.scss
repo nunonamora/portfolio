@@ -99,13 +99,13 @@
 			flex-grow: 1;
 			flex-shrink: 1;
 			position: relative;
-
+			align-content: center;
 			img {
-				height: 100%;
-				width: auto;
+				height: 25rem;
+				width: 25rem;
 				aspect-ratio: 3/4;
 				object-fit: cover;
-				border-radius: 2rem;
+				border-radius: 50%;
 			}
 
 			&.technicalSvg {
@@ -138,7 +138,11 @@
 			}
 
 			.image {
-				padding: 1rem;
+				padding: 3rem;
+				img {
+					height: 18rem;
+					width: 18rem;
+				}
 				&.technicalSvg {
 					position: absolute;
 					top: 50%;
